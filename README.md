@@ -1,16 +1,15 @@
-Hi, I am Yogesh Chhetri
-I am a DevOps engineer
+```
+class AboutMe {
+public:
+	string name = "Yogesh Chhetri";
+	string profession = "DevOps Engineer";
+	vector<string> interests = { "Discrete mathematics",
+								"Data Structure and Algorithms"};
+	vector<string> looking_to_colobrate_on = {"Dockers",
+											  "Kubernetes",
+											  "Competitive Programming solutions",
+											  "Anything interesting and unique"};
+	map<string, string> fastest_way_to_reach = {"discord.com": "yogesh#1234"};
 
-
-
-
-- 👋 Hi, I’m @yogeshCt3
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-yogeshCt3/yogeshCt3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+}
+  ```
