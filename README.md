@@ -2,7 +2,7 @@
 class AboutMe {
 public:
 	string name = "Yogesh Chhetri";
-	string profession = "DevOps Engineer";
+	string profession = "Software Engineer";
 	vector<string> interests = { "Discrete mathematics",
 				     "Data Structure and Algorithms"};
 	vector<string> looking_to_colobrate_on = {"Dockers",
